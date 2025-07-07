@@ -23,4 +23,4 @@ Developed and compared ARIMA and Prophet models to forecast price trends.
 ---
 
 You can also view my full portfolio here:  
-🔗 [Google Sites portfolio](#)
+🔗 [Google Sites portfolio](https://sites.google.com/view/david-revell-data)
