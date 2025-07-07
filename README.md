@@ -16,9 +16,10 @@ Applied statistical and machine learning methods (IQR, One-Class SVM, Isolation 
 Used K-Means and Hierarchical clustering to identify customer groups and visualise key segment profiles.  
 [View project →](https://sites.google.com/view/david-revell-data/projects?authuser=0#h.439uqbs7ufs)
 
-### 📌 Time Series Forecasting of Energy Prices
-Developed and compared ARIMA and Prophet models to forecast price trends.  
-[View project →](#)
+### 📌 Predicting Course Completion with XGBoost and Neural Networks
+Built models to identify students at risk of dropping out of an online course, supporting early intervention strategies.  
+[View project →](https://sites.google.com/view/david-revell-data/projects?authuser=0#h.tz98wuek2d32)
+
 
 ---
 
