@@ -4,9 +4,9 @@ Welcome to my GitHub portfolio. This site showcases a selection of my recent dat
 
 ## Projects
 
-### 📌 Topic Modelling of Gym Reviews
+### 📌 Topic Modelling of Gym Reviews  
 Uncovered customer concerns from Google and Trustpilot reviews using NLP techniques and LDA topic modelling.  
-[View project](https://sites.google.com/view/david-revell-data/projects?authuser=0#h.fjv8k32vs4vm) – GitHub repo coming soon
+[View project](https://sites.google.com/view/david-revell-data/projects?authuser=0#h.fjv8k32vs4vm) • [GitHub repo](https://github.com/david-revell/gym-reviews-topic-modelling)
 
 ### 📌 Anomaly Detection of Ship Engine Data
 Applied statistical and machine learning methods (IQR, One-Class SVM, Isolation Forest) to identify engine anomalies.  
