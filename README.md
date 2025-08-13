@@ -26,8 +26,8 @@ Built models to identify students at risk of dropping out of an online course, s
 
 ### 📌 Market Trend Fill Modelling with EMA and MACD Features  
 Built a weekly trend classification model for a gold ETF using EMA and MACD features, then modelled fill probability based on predicted trend signals.  
-🔗 [Google Sites write-up](<INSERT LINK HERE>)  
-🔗 [GitHub repo](https://github.com/david-revell/market-trend-fill-model)
+[🔗 Google Sites write-up](<INSERT LINK HERE>)  
+[📁 GitHub repo](https://github.com/david-revell/market-trend-fill-model)
 
 ---
 
