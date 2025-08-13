@@ -24,6 +24,11 @@ Built models to identify students at risk of dropping out of an online course, s
 [🔗 Google Sites write-up](https://sites.google.com/view/david-revell-data/projects?authuser=0#h.tz98wuek2d32)  
 [📁 GitHub repo](https://github.com/david-revell/course-completion-prediction)
 
+### 📌 Market Trend Fill Modelling with EMA and MACD Features  
+Built a weekly trend classification model for a gold ETF using EMA and MACD features, then modelled fill probability based on predicted trend signals.  
+🔗 [Google Sites write-up](<INSERT LINK HERE>)  
+🔗 [GitHub repo](https://github.com/david-revell/market_trend_fill_model)
+
 ---
 
 You can also view my full portfolio here:  
