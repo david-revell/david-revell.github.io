@@ -29,6 +29,12 @@ Built a weekly trend classification model for a gold ETF using EMA and MACD feat
 [🔗 Google Sites write-up](https://sites.google.com/view/david-revell-data/projects?authuser=0#h.dq96tpjgqo9b)
 [📁 GitHub repo](https://github.com/david-revell/market-trend-fill-model)
 
+### 📌 Time Series Forecasting of Book Sales
+Forecasted weekly and monthly sales for two classic titles using ARIMA, XGBoost, LSTM, and hybrid models, comparing model accuracy across time scales.  
+[🔗 Google Sites write-up](https://sites.google.com/view/david-revell-data/projects?authuser=0#h.s4bdldmpj01c)  
+[📁 GitHub repo](https://github.com/david-revell/time_series_forecasting)
+
+
 ---
 
 You can also view my full portfolio here:  
