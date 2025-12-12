@@ -5,6 +5,12 @@ My focus is on practical agentic systems, tool-calling, and integrations using t
 
 ## Projects
 
+### Calendar Agent Evaluation Framework
+An evaluation harness for testing MCP-based AI agents using scenario-driven synthetic users.
+Runs repeatable multi-turn conversations, captures plain-text transcripts with stop reasons, and uses Phoenix tracing to inspect agent reasoning, tool use, and failure modes.
+Focused on surfacing behavioural issues such as off-scope responses, unsupported capability claims, and non-converging dialogues.  
+[📁 GitHub repo](https://github.com/david-revell/calendar-agent-controller)
+
 ### Google Calendar MCP Agent  
 An MCP server and agent for managing Google Calendar through tool calls.  
 Implements event listing/creation/update, conflict checking, local SQLite memory, and Phoenix tracing.  
