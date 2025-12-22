@@ -5,6 +5,12 @@ My focus is on practical agentic systems, tool-calling, and integrations using t
 
 ## Projects
 
+### Agent Evaluation Orchestrator  
+A generic orchestration layer for running, logging, and post-hoc evaluating AI agent behaviour across different implementations.  
+Supports scenario-driven runs, structured conversation logs, and decouples execution from judgement for consistent evaluation.  
+Validated with both multi-turn tool-using agents and single-turn RAG-based agents, this framework focuses on agent-agnostic behavioural analysis.  
+[📁 GitHub repo](https://github.com/david-revell/agent-evaluation-orchestrator)
+
 ### Calendar Agent Evaluation Framework
 An evaluation harness for testing MCP-based AI agents using scenario-driven synthetic users.
 Runs repeatable multi-turn conversations, captures plain-text transcripts with stop reasons, and uses Phoenix tracing to inspect agent reasoning, tool use, and failure modes.
