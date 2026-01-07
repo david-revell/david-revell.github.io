@@ -11,6 +11,11 @@ Supports scenario-driven runs, structured conversation logs, and decouples execu
 Validated with both multi-turn tool-using agents and single-turn RAG-based agents, this framework focuses on agent-agnostic behavioural analysis.  
 [📁 GitHub repo](https://github.com/david-revell/agent-evaluation-orchestrator)
 
+### Document Ingestion & Knowledge Graph Agent  
+An agentic document ingestion system that converts unstructured documents into a Neo4j-backed knowledge graph for retrieval and analysis.  
+Implements chunking, structured extraction, graph construction, and queryable relationships, with a focus on traceability, evaluation-readiness, and downstream RAG-style use cases.  
+[📁 GitHub repo](https://github.com/david-revell/doc-ingest-graph-agent)
+
 ### Calendar Agent Evaluation Framework
 An evaluation harness for testing MCP-based AI agents using scenario-driven synthetic users.
 Runs repeatable multi-turn conversations, captures plain-text transcripts with stop reasons, and uses Phoenix tracing to inspect agent reasoning, tool use, and failure modes.
