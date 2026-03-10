@@ -11,6 +11,12 @@ Supports scenario-driven runs, structured conversation logs, and decouples execu
 Validated with both multi-turn tool-using agents and single-turn RAG-based agents, this framework focuses on agent-agnostic behavioural analysis.  
 [📁 GitHub repo](https://github.com/david-revell/agent-evaluation-orchestrator)
 
+### Vision Creative Evaluation Framework  
+A structured evaluation framework for testing how vision-enabled LLMs interpret advertising creatives.  
+Runs controlled prompts across labelled image datasets and evaluates outputs against ground-truth annotations using deterministic scoring and run-level result capture.  
+Designed to analyse model reliability and failure patterns when interpreting visual attributes such as brand presence, promotional cues, colour usage, and call-to-action elements.  
+[📁 GitHub repo](https://github.com/david-revell/vision-creative-eval)
+
 ### Document Ingestion & Knowledge Graph Agent  
 An agentic document ingestion system that converts unstructured documents into a Neo4j-backed knowledge graph for retrieval and analysis.  
 Implements chunking, structured extraction, graph construction, and queryable relationships, with a focus on traceability, evaluation-readiness, and downstream RAG-style use cases.  
