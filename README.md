@@ -11,6 +11,12 @@ Supports scenario-driven runs, structured conversation logs, and decouples execu
 Validated with both multi-turn tool-using agents and single-turn RAG-based agents, this framework focuses on agent-agnostic behavioural analysis.  
 [📁 GitHub repo](https://github.com/david-revell/agent-evaluation-orchestrator)
 
+### Multi-LLM Context Evaluation
+A cross-provider faithfulness evaluation measuring how reliably four LLMs (OpenAI, Anthropic, Gemini, Llama) ground outputs in an injected context document.
+Uses a synthetic clinical corpus with engineered failure modes across nine categories — including negation dropout, numerical drift, hallucination on silence, and false-premise correction — to isolate generation faithfulness from retrieval quality.
+Implements LLM-as-judge scoring with a structured rubric, decoupled from inference for reproducible re-scoring. Includes a full analytical report and an interactive results viewer.
+[📁 GitHub repo](https://github.com/david-revell/multi-llm-context-eval) · [🔍 Interactive results viewer](https://david-revell.github.io/multi-llm-context-eval/eval_viewer.html)
+
 ### Vision Creative Evaluation Framework  
 A structured evaluation framework for testing how vision-enabled LLMs interpret advertising creatives.  
 Runs controlled prompts across labelled image datasets and evaluates outputs against ground-truth annotations using deterministic scoring and run-level result capture.  
