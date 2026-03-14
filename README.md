@@ -1,7 +1,7 @@
 # David Revell – AI Engineering Portfolio
 
-This page brings together my current applied AI engineering work.  
-My focus is on practical agentic systems, tool-calling, and integrations using the OpenAI Agents SDK and MCP.
+This page brings together my current applied AI engineering work.
+My focus is on LLM evaluation, agentic systems, and building rigorous frameworks for understanding how AI behaves in practice.
 
 ## Projects
 
