@@ -1,7 +1,7 @@
-# David Revell – AI Engineering Portfolio
+# David Revell – Applied AI Portfolio
 
-This page brings together my current applied AI engineering work.
-My focus is on LLM evaluation, agentic systems, and building rigorous frameworks for understanding how AI behaves in practice.
+This page brings together my current work in applied AI systems, evaluation, and agent-based tooling.
+My focus is on LLM evaluation, agentic systems, and building frameworks to understand how AI behaves in practice.
 
 ## Projects
 
@@ -25,7 +25,7 @@ Designed to analyse model reliability and failure patterns when interpreting vis
 [📁 GitHub repo](https://github.com/david-revell/vision-creative-eval)
 
 ### Document Ingestion & Knowledge Graph Agent  
-An agentic document ingestion system that converts unstructured documents into a Neo4j-backed knowledge graph for retrieval and analysis.  
+A document ingestion system that converts unstructured documents into a Neo4j-backed knowledge graph for retrieval and analysis.  
 Implements chunking, structured extraction, graph construction, and queryable relationships, with a focus on traceability, evaluation-readiness, and downstream RAG-style use cases.  
 [📁 GitHub repo](https://github.com/david-revell/doc-ingest-graph-agent)
 
